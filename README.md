@@ -10,4 +10,4 @@ This is a decompilation of the .u package files containing all the assets for th
 
 I don't really plan on using any of this to make a patch for the game or anything like that, I was just curious about how the game worked.
 
-None of the code or assets have been modified.
+None of the code or assets have been modified. Though some of the asset files may have been exported incorrectly.
